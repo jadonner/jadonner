@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josh
 - 🌱 I'm currently studying Computer Science at the University at Buffalo, NY
-- 📫 You can email me joshdonner11@gmail.com
+- 👨‍💼 Seeking any sort of workforce experience to build my career
 
 <!---
 jadonner/jadonner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
