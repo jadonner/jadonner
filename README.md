@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josh
-- 🌱 I'm currently studying Computer Science at the University at Buffalo, NY
+- 🌱 I'm a graduate in Computer Science and Math from the University at Buffalo, NY
 - 👨‍💼 Seeking any sort of workforce experience to build my career
 
 <!---
